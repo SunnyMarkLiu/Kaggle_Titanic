@@ -1,6 +1,6 @@
 # Exploring Survival on the Titanic
 <center>
-<img src="http://www.exploretitanic.com/wp-content/uploads/2012/01/Titanic-Hitting-The-Icebery.jpg"/>
+<img src="http://www.hdwallpapers.in/walls/titanic_in_3d-HD.jpg" width=100% height=80%/>
 </center>
 
 ## License
